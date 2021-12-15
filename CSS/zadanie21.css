@@ -1,0 +1,20 @@
+
+header {
+    background-color: #808080;
+    width: 346px;
+    height: 735px;
+}
+
+h1 {    
+    margin-inline: 30px;
+    color: white;
+}
+
+div {
+    background-color: #fea500;
+    width: 159px;
+    height: 156px;
+    margin-block: 12px;
+    margin-left: 30px;
+}
+

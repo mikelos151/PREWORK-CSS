@@ -1,0 +1,20 @@
+/* Gdy ustawiłem 100px na 100px to tekst był 
+nieczytelny i nejeżdżał na siebie
+ */
+article p {
+  height: 160px;
+  width: 230px;
+  background-color: red;
+}
+
+
+
+.paragraf {
+
+    background-color: blue;
+
+}
+
+.tekst {
+    opacity: 0.5;
+}
