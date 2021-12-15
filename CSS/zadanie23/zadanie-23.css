@@ -1,0 +1,17 @@
+h1 {
+color: #ff0000;
+}
+
+header p{
+    color: #a42423;
+    font-size: larger;
+}
+
+article p {
+    color: #00008f;
+    font-size: larger;
+}
+
+body {
+    background-color:#faebd6 ;
+}

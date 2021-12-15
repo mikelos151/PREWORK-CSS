@@ -1,0 +1,39 @@
+body {
+  background-color: slateblue;
+}
+
+h1 {
+  color: springgreen;
+}
+
+header p {
+  color: violet;
+}
+
+h2 {
+  color: yellow;
+}
+
+article p {
+  color: tomato;
+}
+
+#item-1 {
+  color: snow;
+}
+
+#item-2 {
+  color: salmon;
+}
+
+.item-3 {
+  color: silver;
+}
+
+.item-4 {
+    color: moccasin;
+}
+
+#item-5 {
+    color: aqua;
+}
