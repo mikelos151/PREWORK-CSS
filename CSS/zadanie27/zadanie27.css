@@ -6,6 +6,6 @@ h1, h3 {
     background-color: darkturquoise;
 }
 
-body > h3 {    
+h1 + h3 {    
 color: rgb(186, 209, 183);
 }
